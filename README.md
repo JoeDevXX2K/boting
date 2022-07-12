@@ -1,8 +1,9 @@
            Tools Untuk Facebook Free!!
 
- - Boting adalah sebuah tools atau script Termux untuk Facebook
-
 [![Screenshot-2022-07-12-11-31-51-88-84d3000e3f4017145260f7618db1d683.jpg](https://i.postimg.cc/NFgSxL2r/Screenshot-2022-07-12-11-31-51-88-84d3000e3f4017145260f7618db1d683.jpg)](https://postimg.cc/1njvmmH9)
+
+
+ - Boting adalah sebuah tools atau script Termux untuk Facebook
 
 
 # Install / Perintah
@@ -30,3 +31,6 @@ Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/pa
 
 # my contact :
             [+] WhatsApp : 083164279551
+
+
+[![20220708-231943.png](https://i.postimg.cc/ZR8KRfdF/20220708-231943.png)](https://postimg.cc/ygNzpynk)
